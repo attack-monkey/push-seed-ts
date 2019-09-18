@@ -1,0 +1,21 @@
+{
+  "name": "push-seed-ts",
+  "version": "1.0.0",
+  "description": "TypeScript Seed Project for Push",
+  "main": "src/index.html",
+  "scripts": {
+    "test": "test",
+    "start": "parcel src/index.html"
+  },
+  "author": "attack-monkey",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^12.7.5",
+    "hyperscript": "^2.0.2",
+    "push_fw": "^1.0.2",
+    "tslint": "^5.20.0"
+  },
+  "devDependencies": {
+    "typescript": "^3.6.3"
+  }
+}
